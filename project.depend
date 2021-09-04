@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1557315335 source:c:\users\psf\desktop\c programs\project\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1558174118 source:c:\users\psf\desktop\mini project 2\mini project 2\mini project 2 program\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"convay.h"
+
+1558173389 c:\users\psf\desktop\mini project 2\mini project 2\mini project 2 program\convay.h
+
+1561351674 source:c:\users\psf\desktop\c programs\fp labs\mini project 2\mini project 2\mini project 2 program\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"next tick.h"
+	"print.h"
+	"dead.h"
+
+1558175636 c:\users\psf\desktop\c programs\fp labs\mini project 2\mini project 2\mini project 2 program\next tick.h
+
+1558175476 c:\users\psf\desktop\c programs\fp labs\mini project 2\mini project 2\mini project 2 program\print.h
+
+1563645759 c:\users\psf\desktop\c programs\fp labs\mini project 2\mini project 2\mini project 2 program\dead.h
+
+1561351674 source:c:\users\psf\desktop\c programs\icp\fp labs\mini project 2\mini project 2\mini project 2 program\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"next tick.h"
+	"print.h"
+	"dead.h"
+
+1558175636 c:\users\psf\desktop\c programs\icp\fp labs\mini project 2\mini project 2\mini project 2 program\next tick.h
+
+1558175476 c:\users\psf\desktop\c programs\icp\fp labs\mini project 2\mini project 2\mini project 2 program\print.h
+
+1563645759 c:\users\psf\desktop\c programs\icp\fp labs\mini project 2\mini project 2\mini project 2 program\dead.h
+
